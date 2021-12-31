@@ -1,0 +1,27 @@
+This is a sample text file with questions to use with SimpleDataSource.
+
+
+A: The Solar System
+
+
+1. What is the mass of the Earth?
+
+. 5.9722×10^24 kg
+
+
+2. Name two space telescopes.
+
+. Hubble
+. James Webb
+
+
+3. Name the planets of the Solar System.
+
+ . Mercury
+ . Venus
+ . Earth
+ . Mars
+ . Jupiter
+ . Saturn
+ . Uranus
+ . Neptune

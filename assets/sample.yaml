@@ -1,0 +1,32 @@
+- section:
+    name: The Solar System
+    id: A
+    questions:
+      - question:
+          text: What is the mass of the Earth?
+          id: 1
+          answers:
+            - 5.9722×10^24 kg
+
+      - question:
+          text: Name two space telescopes.
+          id: 2
+          answers:
+            - Hubble
+            - James Webb
+
+      - question:
+          text: Name the planets of the Solar System.
+          id: 3
+          answers:
+            - Mercury
+            - Venus
+            - Earth
+            - Mars
+            - Jupiter
+            - Saturn
+            - Uranus
+            - Neptune
+
+- section:
+    name: Another System
